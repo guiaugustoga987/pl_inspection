@@ -1,0 +1,1 @@
+To train the YOLOv8 on the Powerline dataset upload the [PLDataset_YOLOv8.ipynb](https://github.com/guiaugustoga987/pl_inspection/blob/main/training/PLDataset_YOLOv8.ipynb) in your google colab and follow the instructions in the notebook. 
