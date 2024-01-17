@@ -1,6 +1,6 @@
 # pl_inspection
 
-pl_inspection is a package for power lines allignment and following missions using UAVs. It uses YOLOv8 to detect the power lines to be followed and a hybrid Type-2-fuzzy-PID controller to keep the drone over the cables throoughtout the mission. The methodology was tested uwing the [Parrot Bebop-2](https://www.parrot.com/assets/s3fs-public/2021-09/bebop-2_user-guide_uk_2.pdf) drone and can be adapted to other models using the ROS framework.
+pl_inspection is a package for power lines allignment and following missions using UAVs. It uses YOLOv8 to detect the power lines to be followed and a hybrid Type-2-fuzzy-PID controller to keep the drone over the cables throoughtout the mission. The methodology was tested using the [Parrot Bebop-2](https://www.parrot.com/assets/s3fs-public/2021-09/bebop-2_user-guide_uk_2.pdf) drone and can be adapted to other models using the ROS framework.
 
 # PLDataset
 
