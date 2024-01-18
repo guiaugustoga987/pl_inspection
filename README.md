@@ -6,7 +6,7 @@ pl_inspection is a package for power lines allignment and following missions usi
 
 First, install the bebop_autonomy and Parrot_arsdk to control the Bebop-2 UAV using ROS-noetic. Follow the [guide](https://github.com/antonellabarisic/parrot_arsdk/blob/noetic_dev/README.md) 
 
-Install additional packages :
+Install the additional packages :
 
 ```
 pip install -U scikit-learn
