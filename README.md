@@ -11,7 +11,7 @@ Install the additional packages :
 ```
 pip install -U scikit-learn
 pip3 install --upgrade pyit2fls
-
+pip install ultralytics
 ```
 
 # PLDataset
